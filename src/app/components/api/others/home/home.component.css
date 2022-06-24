@@ -1,0 +1,16 @@
+div {
+  padding-top: 15%;
+  min-width: 100%;
+}
+marquee {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: xx-large;
+  font-weight: bolder;
+  color: rgb(67, 19, 19);
+  min-height: 70%;
+}
+p {
+    text-align: center;
+    margin: 0% 40%;;
+    background-color: thistle;
+}
